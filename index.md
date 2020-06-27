@@ -1,13 +1,13 @@
 # Welcome to Web Garden!
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="davidconlisk"><a class="LI-simple-link" href='https://uk.linkedin.com/in/davidconlisk?trk=profile-badge'>David Conlisk</a></div>
-
 ## Who am I?
 
 My name is David Conlisk and I am a freelance mobile app developer based in Glasgow, Scotland.
 
 I have over 20 years of industry experience building websites and mobile apps for a variety of clients. I thrive in the fast-pasted agency environment, working with agile methodologies to tight deadlines.
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="davidconlisk"><a class="LI-simple-link" href='https://uk.linkedin.com/in/davidconlisk?trk=profile-badge'>David Conlisk</a></div>
 
 ## Current technologies
 - **Xamarin Forms**. For the past number of years I have been using Xamarin Forms full-time for my clients. At the moment I am helping to create cross-platform apps for the medical industry with my client Clevermed Limited in Edinburgh. 
