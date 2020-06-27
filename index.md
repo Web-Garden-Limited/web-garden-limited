@@ -1,5 +1,7 @@
 # Welcome to Web Garden!
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="davidconlisk"><a class="LI-simple-link" href='https://uk.linkedin.com/in/davidconlisk?trk=profile-badge'>David Conlisk</a></div>
+
 ## Who am I?
 
 My name is David Conlisk and I am a freelance mobile app developer based in Glasgow, Scotland.
