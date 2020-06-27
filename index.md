@@ -13,17 +13,17 @@ I have over 20 years of industry experience building websites and mobile apps fo
 - **Amazon Alexa** - I love building voice skills and I have a number of skills in the Alexa marketplace.
 
 ## Recent clients
-[Clevermed](https://www.clevermed.com/)
+<a href="https://www.clevermed.com/" target="_blank">Clevermed</a>
 
-[Screenmedia](https://www.screenmedia.co.uk/)
+<a href="https://www.screenmedia.co.uk/" target="_blank">Screenmedia</a>
 
-[VShips UK Limited](http://www.vcrew.com/offices/united-kingdom/)
+<a href="http://www.vcrew.com/offices/united-kingdom/" target="_blank">VShips UK</a>
 
 ## Personal projects
-[Bristol Stool Chart](https://bristolstoolchart.net)
+<a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>
 
-[Guide Research Limited](https://guide-research.com)
+<a href="https://guide-research.com" target="_blank">Guide Research Limited</a>
+
 
 ## Get in touch
 I'd love to hear from you. You can find me at [david@web-garden.co.uk](mailto:david@web-garden.co.uk)
-
