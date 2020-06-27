@@ -21,8 +21,10 @@ I have over 20 years of industry experience building websites and mobile apps fo
 
 ## Personal projects
 <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>
+This was originally my first native iOS app built back in 2011 as a prototype for future medical app development. When it stopped working in 2015 due to an iOS update, I started to get emails from frustrated users, and I realised that a lot of people find it useful in managing their medical conditions. I then redeveloped it as a cross-platform (iOS and Android) app using Xamarin Forms and Grialkit. I have rebuilt the app once again in 2020 using Google Flutter and the Dart language.
 
-<a href="https://guide-research.com" target="_blank">Guide Research Limited</a>
+<a href="https://guide-research.com" target="_blank">The Guide App</a>
+This is an app designed for users with memory impairments to help them in completing the activities of daily living. It uses speech and voice recognition to talk the user through the completion of a task if they are having trouble sequencing the steps required. It is being trialled with service users at the moment in Glasgow.
 
 
 ## Get in touch
