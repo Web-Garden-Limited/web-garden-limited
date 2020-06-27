@@ -14,11 +14,14 @@ I have over 20 years of industry experience building websites and mobile apps fo
 
 ## Recent clients
 [Clevermed](https://www.clevermed.com/)
+
 [Screenmedia](https://www.screenmedia.co.uk/)
+
 [VShips UK Limited](http://www.vcrew.com/offices/united-kingdom/)
 
 ## Personal projects
 [Bristol Stool Chart](https://bristolstoolchart.net)
+
 [Guide Research Limited](https://guide-research.com)
 
 ## Get in touch
