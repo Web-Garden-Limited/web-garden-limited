@@ -9,8 +9,8 @@ I have over 20 years of industry experience building websites and mobile apps fo
 ## Current technologies
 - **Xamarin Forms**. For the past number of years I have been using Xamarin Forms full-time for my clients. At the moment I am helping to create cross-platform apps for the medical industry with my client Clevermed Limited in Edinburgh. 
 - **C#** - because most apps need an API to communicate with, I am comfortable working on API design, architecture, and implementation, including the data layer.
-- **Flutter** - I have recently been getting into Google Flutter and I've released my first app using it, the Bristol Stool Chart.
-- **Amazon Alexa** - I love building voice skills and I have a number of skills in the Alexa marketplace.
+- **Flutter** - I have recently been getting into Google Flutter and the Dart language. I've released my first app using Flutter, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>.
+- **Voice** - I love building voice skills and I have helped to build an award winning voice skill for Alexa and Google Home. I also have a couple of skills active for Alexa, <a href="https://www.amazon.co.uk/Web-Garden-Limited-Daybreak-Yoga/dp/B079542ZNV/ref=sr_1_1?dchild=1&keywords=web+garden+limited&qid=1593259714&s=digital-skills&sr=1-1" target="_blank">Daybreak Yoga</a> and <a href="https://www.amazon.co.uk/Web-Garden-Limited-Tea-Guide/dp/B076JGKSLJ/ref=sr_1_2?dchild=1&keywords=web+garden+limited&qid=1593259776&s=digital-skills&sr=1-2" target="_blank">Tea Guide</a>.
 
 ## Recent clients
 <a href="https://www.clevermed.com/" target="_blank">Clevermed</a>
