@@ -1,7 +1,5 @@
 # Welcome to Web Garden!
 
-## Who am I?
-
 My name is David Conlisk and I am a freelance mobile app developer based in Glasgow, Scotland.
 
 I have over 20 years of industry experience building websites and mobile apps for a variety of clients. I thrive in the fast-pasted agency environment, working with agile methodologies to tight deadlines.
@@ -14,7 +12,7 @@ I have over 20 years of industry experience building websites and mobile apps fo
 
 - **C#** - because most apps need an API to communicate with, I am comfortable working on API design, implementation and integration.
 
-- **Flutter** - I have recently been getting into Google Flutter and the Dart language. I've released my first app using Flutter, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>.
+- **Flutter** - I have recently been getting into Google Flutter and the Dart language. I've released my first app using Flutter, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>. It is completely free to use and fully open source. <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">View the source code on github</a> 
 
 - **Voice** - I love building voice skills and I have experience building an award winning voice skill for Alexa and Google Home for a well known TV show. I also have a couple of skills active for Alexa, <a href="https://www.amazon.co.uk/Web-Garden-Limited-Daybreak-Yoga/dp/B079542ZNV/ref=sr_1_1?dchild=1&keywords=web+garden+limited&qid=1593259714&s=digital-skills&sr=1-1" target="_blank">Daybreak Yoga</a> and <a href="https://www.amazon.co.uk/Web-Garden-Limited-Tea-Guide/dp/B076JGKSLJ/ref=sr_1_2?dchild=1&keywords=web+garden+limited&qid=1593259776&s=digital-skills&sr=1-2" target="_blank">Tea Guide</a>.
 
