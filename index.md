@@ -12,7 +12,7 @@ I have over 20 years of industry experience building websites and mobile apps fo
 
 - **C# and .NET** - I am comfortable working on API design, implementation and integration. Anywhere you can use C#.
 
-- **Flutter** - I have recently been getting into Google Flutter which I really enjoy. I've released my first app using Flutter, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>. It is completely free to use and fully open source. <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">View the source code on github</a> 
+- **Flutter** - I have recently been getting into <a href="https://flutter.dev/" target="_blank">Google Flutter</a> which I really enjoy. I've released my first app using Flutter, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>. It is completely free to use and fully open source. <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">View the source code on github</a> 
 
 - **Voice** - I love building voice skills and I have experience building an award winning voice skill for Alexa and Google Home for a well known TV show. I also have a couple of skills active for Alexa, <a href="https://www.amazon.co.uk/Web-Garden-Limited-Daybreak-Yoga/dp/B079542ZNV/ref=sr_1_1?dchild=1&keywords=web+garden+limited&qid=1593259714&s=digital-skills&sr=1-1" target="_blank">Daybreak Yoga</a> and <a href="https://www.amazon.co.uk/Web-Garden-Limited-Tea-Guide/dp/B076JGKSLJ/ref=sr_1_2?dchild=1&keywords=web+garden+limited&qid=1593259776&s=digital-skills&sr=1-2" target="_blank">Tea Guide</a>.
 
@@ -26,11 +26,14 @@ I have over 20 years of industry experience building websites and mobile apps fo
 ## Personal projects
 <a href="https://bristolstoolchart.net" target="_blank">The Bristol Stool Chart</a>
 
-This was originally my first native iOS app built back in 2011 as a prototype for future medical app development. When it stopped working in 2015 due to an iOS update, I started to get emails from frustrated users, and I realised that a lot of people find it useful in managing their medical conditions. I then redeveloped it as a cross-platform (iOS and Android) app using Xamarin Forms and Grialkit. I have rebuilt the app once again in 2020 using Google Flutter and the Dart language.
+This was originally my first native iOS app built back in 2011 as a prototype for future medical app development. When it stopped working in 2015 due to an iOS update, I started to get emails from frustrated users, and I realised that a lot of people find it useful in managing their medical conditions. I then redeveloped it as a cross-platform (iOS and Android) app using Xamarin Forms and Grialkit. I have rebuilt the app once again in 2020 using Google Flutter and the Dart language. It has always been free, and now it is also <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">100% open source and available on github</a> 
 
 <a href="https://guide-research.com" target="_blank">The Guide App</a>
 
 This is an app designed for users with memory impairments to help them in completing the activities of daily living. It uses speech and voice recognition to talk the user through the completion of a task if they are having trouble sequencing the steps required. It is being trialled with service users at the moment in Glasgow.
+
+<a href="https://github.com/dconlisk" target="_blank">My github</a>
+I've recently moved this website and the Bristol Stool Chart sites from an old Umbraco 4 instance to GitHub Pages. Using markdown with Jekyll and pre-built themes is just so easy! I highly recommend it (plus it's free!)
 
 
 ## Get in touch
