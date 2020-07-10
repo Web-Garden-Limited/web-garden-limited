@@ -10,7 +10,7 @@ I have over 20 years of industry experience building websites and mobile apps fo
 ## Current technologies
 - **Xamarin Forms**. For the past number of years I have been using Xamarin Forms full-time for my clients. At the moment I am helping to create cross-platform apps for the medical industry with my client Clevermed Limited in Edinburgh. 
 
-- **C#** - because most apps need an API to communicate with, I am comfortable working on API design, implementation and integration.
+- **C# and .NET** - I am comfortable working on API design, implementation and integration. 
 
 - **Flutter** - I have recently been getting into Google Flutter and the Dart language. I've released my first app using Flutter, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>. It is completely free to use and fully open source. <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">View the source code on github</a> 
 
