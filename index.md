@@ -28,10 +28,6 @@ I have over 20 years of industry experience building websites and mobile apps fo
 
 This was originally my first native iOS app built back in 2011 as a prototype for future medical app development. When it stopped working in 2015 due to an iOS update, I started to get emails from frustrated users, and I realised that a lot of people find it useful in managing their medical conditions. I then redeveloped it as a cross-platform (iOS and Android) app using Xamarin Forms and Grialkit. I have rebuilt the app once again in 2020 using Google Flutter. It has always been free, and now it is also <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">100% open source and available to view on github</a>. 
 
-<a href="https://guide-research.com" target="_blank">The Guide App</a>
-
-This is an app designed for users with memory impairments to help them in completing the activities of daily living. It uses speech and voice recognition to talk the user through the completion of a task if they are having trouble sequencing the steps required. It is being trialled with service users at the moment in Glasgow.
-
 <a href="https://github.com/dconlisk" target="_blank">My Github</a>
 
 I've recently moved this website and the Bristol Stool Chart site from a creaky old Umbraco 4 instance to GitHub Pages. Using markdown with Jekyll and pre-built themes is just so easy! It's free for one organisation site along with one site per repository. I highly recommend it. 
