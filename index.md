@@ -9,7 +9,7 @@ I have over 25 years of industry experience building websites and mobile apps fo
 
 ## Current technologies
 
-**React and Node** - I am currently investigating the MERN Javascript technology stack (<a href="https://www.mongodb.com/home" target="_blank">MongoDB</a>, <a href="https://expressjs.com/" target="_blank">Express</a>, <a href="https://reactjs.org/" target="_blank">React</a> and <a href="https://nodejs.org/en/" target="_blank">Node</a>) using <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> which is really interesting.
+- **React and Node** - I am currently investigating the MERN Javascript technology stack (<a href="https://www.mongodb.com/home" target="_blank">MongoDB</a>, <a href="https://expressjs.com/" target="_blank">Express</a>, <a href="https://reactjs.org/" target="_blank">React</a> and <a href="https://nodejs.org/en/" target="_blank">Node</a>) using <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> which is really interesting.
 
 - **Flutter** - I have been using <a href="https://flutter.dev/" target="_blank">Google Flutter</a> commercially since January 2021 which I really enjoy. I have a Flutter app in the app stores, the <a href="https://bristolstoolchart.net" target="_blank">Bristol Stool Chart</a>. It is completely free to use and fully open source. <a href="https://github.com/dconlisk/bristol-stool-chart-flutter-app" target="_blank">View the source code on github</a>
 
