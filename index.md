@@ -4,8 +4,7 @@ My name is David Conlisk and I am a freelance mobile app developer based in Glas
 
 I have over 25 years of industry experience building websites and mobile apps for a variety of clients. I thrive in the fast-paced agency environment, working with agile methodologies to tight deadlines.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="davidconlisk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/davidconlisk?trk=profile-badge">David Conlisk</a></div>
+{{ site.linkedin_badge }}
 
 ## Current technologies
 
