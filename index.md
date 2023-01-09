@@ -2,7 +2,7 @@
 
 My name is David Conlisk and I am a senior software engineer based in Glasgow, Scotland.
 
-I have over 20 years' of industry experience building websites and mobile apps for a variety of clients. I thrive in the fast-paced agency environment, working with agile methodologies to tight deadlines.
+I have over 20 years of industry experience building websites and mobile apps for a variety of clients. I thrive in the fast-paced agency environment, working with agile methodologies to tight deadlines.
 
 {{ site.linkedin_badge }}
 
