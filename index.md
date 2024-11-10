@@ -54,7 +54,7 @@ fast-paced agency environment, working with agile methodologies to tight deadlin
 
 <a href="https://www.screenmedia.co.uk/" target="_blank">Screenmedia</a>
 
-<a href="https://www.brightwire.net/"> target="\_blank">Brightwire</a>
+<a href="https://www.brightwire.net/" target="_blank">Brightwire</a>
 
 <a href="https://opencrvs.org" target="_blank">OpenCRVS</a>
 
