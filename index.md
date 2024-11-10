@@ -48,7 +48,7 @@ fast-paced agency environment, working with agile methodologies to tight deadlin
 
 ## Clients
 
-<a href="https://waracle.com/about-us/"target="_blank">Waracle</a>
+<a href="https://waracle.com/about-us/" target="_blank">Waracle</a>
 
 <a href="https://vgrouplimited.com/" target="_blank">V.Group</a>
 
